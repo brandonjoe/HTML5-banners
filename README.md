@@ -1,4 +1,4 @@
-# VMX Banners Ads
+# HTML5 banners
 
 ### Intro
 I make HTML5 banner ads for clients using HTML/CSS and a javascript library called GSAP for smooth animations. 
